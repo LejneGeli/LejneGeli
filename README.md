@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Carol 👋
 
-<!--
-**LejneGeli/LejneGeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Systems Development student (ADS)
 
-Here are some ideas to get you started:
+💻 Focused on:
+- Backend Development
+- Workflow Automation
+- APIs & Integrations
+- AI Evaluation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Technologies I work with:
+- Node.js
+- Python
+- Docker
+- PostgreSQL
+- MongoDB
+- Express
+- Git/GitHub
+
+🚀 Projects:
+- WhatsApp & Instagram workflow automation
+- Streamlit dashboards
+- REST APIs with Node.js
+- Google Sheets integrations
+- Academic backend projects using Docker & Sequelize
+
+📚 Currently learning:
+- Python
+- Backend Architecture
+- AI Evaluation
+- System Automation
+- TypeScript
